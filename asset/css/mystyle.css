@@ -965,6 +965,7 @@ margin-top: 50px;
 }
 .outdoor_indoor_inner .outdoor_indoor_item .outdoor_indoor_content .ul-list-flex ol {
     padding: 0 40px 0;
+    font-family: 'Conv_PrivaOneItalicPro';
 }
 .outdoor_indoor_inner .outdoor_indoor_item .outdoor_indoor_content a{
     margin: 26px 0 0 0;
@@ -2149,17 +2150,18 @@ background: #ffc629;
     background: #f7c246;
 }
 .add_contactform_wrp .copy-right {
-    padding: 0 0 10px 30px;
+    padding: 0 0 10px 20px;
+    font-family: 'Conv_PrivaOneItalicPro';
 }
 .address_wrp{
     width: 100%;
     background: #f7c246;
-    padding: 0 0 0 120px;
-    padding: 50px 0;
+    padding: 40px 0 0px 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-family: 'Conv_PrivaOneItalicPro';
 }
 .address_wrp h4{
     font-size: 26px;
