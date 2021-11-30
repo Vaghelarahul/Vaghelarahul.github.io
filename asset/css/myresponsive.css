@@ -540,7 +540,7 @@ margin: 4px 0 0 0;
     padding: 35px 0 0px;
 }
 .address_wrp {
-    padding: 35px 10px 35px;
+    padding: 35px 10px 10px;
 }
 .address_wrp p {
     text-align: center;
@@ -700,7 +700,7 @@ margin: 4px 0 0 0;
 
 /** Jarallax start **/
 .outdoor_indoor{
-    padding: 40px 0 0;
+    padding: 20px 0 0;
 }
 
 .outdoor_indoor_inner .outdoor_indoor_item{
