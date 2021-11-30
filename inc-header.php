@@ -4,7 +4,7 @@
 			<div class="header_content">
 				<div class="site_branding">
 					<a href="index.php">
-						<img src="asset/images/logo.png" />
+						<img src="asset/images/vgl_logo.png" />
 					</a>
 				</div>
 				<div class="header_navigation">
