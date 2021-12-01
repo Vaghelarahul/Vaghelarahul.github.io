@@ -448,6 +448,10 @@ font-style: normal;
 	height: 100%;
 }
 
+.swiper-container.garment-swiper {
+	width: 50%;
+}
+
 .swiper-slide {
 	text-align: center;
 	font-size: 18px;
@@ -645,7 +649,7 @@ font-style: normal;
 
 .site_banner.swiper-button-next:after, .site_banner .swiper-button-prev:after, .site_banner .swiper-button-next:after, .site_banner .swiper-button-prev:after{
 	font-size: 28px;
-	color: #fff;
+	color: #4e2c00;
 	font-weight: 600;
 	transition: 0.2s linear;
 }
@@ -2160,7 +2164,7 @@ background: #ffc629;
     background: #fdb643;
 }
 .add_contactform_wrp .copy-right {
-    padding: 0 0 10px 20px;
+    padding: 0 10px 10px 20px;
     font-family: 'Conv_PrivaOneItalicPro';
 }
 .address_wrp{

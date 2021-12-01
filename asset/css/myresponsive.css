@@ -1308,6 +1308,9 @@ line-height: 26px;
     height: 34px;
     width: 120px;
 }
+.swiper-container.garment-swiper {
+	width: 100%;
+}
 .site_banner .swiper-button-prev, .site_banner .swiper-container-rtl .swiper-button-next{
     left: 15px;
     bottom: 10px;
@@ -1421,6 +1424,12 @@ padding: 4px 13px;
 .overlap_sec_txt p{
     font-size: 14px;
     line-height: 26px;
+}
+
+.add_contactform_wrp .copy-right {
+    padding: 0 10px 10px 20px;
+    font-family: 'Conv_PrivaOneItalicPro';
+    font-size: 12px;
 }
 
 .gallery_wrp .swiper-button-prev, .gallery_wrp .swiper-button-next{
