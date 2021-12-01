@@ -1343,11 +1343,11 @@ line-height: 26px;
 @media only screen and (max-width: 520px){
 /** Site Banner Start **/	
 .banner_text h4{
-    font-size: 24px;
+    font-size: 18px;
 }
 .banner_text p{
-    font-size: 16px;
-    margin: 10px 0 16px;
+    font-size: 14px;
+    margin: 10px 4px 16px;
 }
 /** Site Banner End **/	
 .leftright_inner .left_text h5{
