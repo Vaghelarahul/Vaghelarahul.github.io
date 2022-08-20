@@ -38,7 +38,7 @@ font-style: normal;
 .header_menu{width: 100%; /* Safari */position: fixed;top: 0;z-index: 2;}
 
 .hdr_bg{
-	background-color: #4e2c00;
+	background-color: #FA8645;
 	padding: 16px 0px;
 }
 
@@ -56,7 +56,7 @@ font-style: normal;
 	text-transform: uppercase;
 	/* box-shadow: inset 0 0 20px rgba(35, 96, 146, 0); */
 	/* outline-color: rgb(35, 96, 146, .5); */
-	border: 1px solid #4e2c00;
+	border: 1px solid #000000;
 	padding: 8px 20px;
 	background: #fff;
 	font-size: 16px;
@@ -348,12 +348,12 @@ font-style: normal;
 }
 
 .menu_wrp > ul > li:hover > a{
-	background: #4e2c00;
+	background: #FA8645;
 	color: #fff;
 }
 
 .menu_wrp > ul > li > a{
-	color: #4e2c00;
+	color: #000000;
 	padding: 10px 25px;
 	display: block;
 	text-decoration: none;
@@ -573,12 +573,12 @@ font-style: normal;
 .checkbox_item label span{
     width: 25px;
     height: 25px;
-    border: 1px solid #4e2c00;
+    border: 1px solid #000000;
     position: absolute;
     left: 0;
 }
 
-.checkbox_item label span:after{content: "";position: absolute;width: 8px;height: 16px;border-right: 2px solid #4e2c00;border-bottom: 2px solid #4e2c00;transform: rotate(45deg);left: 8px;top: 1px;opacity: 0;transition: 0.2s linear;}
+.checkbox_item label span:after{content: "";position: absolute;width: 8px;height: 16px;border-right: 2px solid #000000;border-bottom: 2px solid #000000;transform: rotate(45deg);left: 8px;top: 1px;opacity: 0;transition: 0.2s linear;}
 
 .checkbox_item label input:checked + span:after{
     opacity: 1;
@@ -590,7 +590,7 @@ font-style: normal;
     text-align: left;
     margin: 0;
     padding-left: 23px;
-    color: #4e2c00;
+    color: #000000;
 }
 
 
@@ -649,7 +649,7 @@ font-style: normal;
 
 .site_banner.swiper-button-next:after, .site_banner .swiper-button-prev:after, .site_banner .swiper-button-next:after, .site_banner .swiper-button-prev:after{
 	font-size: 28px;
-	color: #4e2c00;
+	color: #000000;
 	font-weight: 600;
 	transition: 0.2s linear;
 }
@@ -681,7 +681,7 @@ font-style: normal;
 
 .overview_right h4{
     font-size: 36px;
-    color: #4e2c00;
+    color: #000000;
     font-family: 'Conv_PrivaFourItalicPro';
     padding: 0;
     margin: 0;
@@ -826,7 +826,7 @@ font-style: normal;
 
 .leftright_inner .left_text h5{
 	font-size: 26px;
-	color: #4e2c00;
+	color: #000000;
 	font-family: 'Conv_PrivaThreeItalicPro';
 	line-height: 40px;
 	margin: 0;
@@ -943,7 +943,7 @@ margin-top: 50px;
 }
 .outdoor_indoor_inner .outdoor_indoor_item .outdoor_indoor_content h4{
     font-size: 36px;
-    color: #4e2c00;
+    color: #000000;
     line-height: 40px;
     margin: 0;
     padding: 0 0 22px 0;
@@ -951,13 +951,13 @@ margin-top: 50px;
 }
 .outdoor_indoor_inner .outdoor_indoor_item .outdoor_indoor_content h5{
     font-size: 24px;
-    color: #4e2c00;
+    color: #000000;
     font-family: 'Conv_PrivaOneItalicPro';
     line-height: 32px;
     margin: 0 0 24px 0;
 }
 .outdoor_indoor_inner .outdoor_indoor_item .outdoor_indoor_content p{
-    color: #4e2c00;
+    color: #000000;
     font-size: 18px;
     font-family: 'Conv_PrivaOneItalicPro';
     line-height: 34px;
@@ -1122,7 +1122,7 @@ width: 100%;
     font-size: 24px;
 }
 
-.grid_icon_item h5{font-size: 25px;color: #4e2c00;font-family: 'Conv_PrivaThreeItalicPro';margin: 0;padding: 0 0 20px 0;}
+.grid_icon_item h5{font-size: 25px;color: #000000;font-family: 'Conv_PrivaThreeItalicPro';margin: 0;padding: 0 0 20px 0;}
 .icon_inner_pages{
     padding: 40px 0px 0 0px;
 }
@@ -1184,7 +1184,7 @@ width: 100%;
 
 .project_content h5{
 	font-size: 24px;
-	color: #4e2c00;
+	color: #000000;
 	font-family: 'Conv_PrivaFourItalicPro';
 	padding: 0 0 10px 0;
 	margin: 0;
@@ -1192,7 +1192,7 @@ width: 100%;
 
 .project_content p{
 	font-size: 18px;
-	color: #4e2c00;
+	color: #000000;
 	font-family: 'Conv_PrivaOneItalicPro';
 	line-height: 36px;
 	margin: 0;
@@ -1278,7 +1278,7 @@ width: 100%;
 	padding: 20px;
 }
 .two_grid_content h5{
-	color: #4e2c00;
+	color: #000000;
 	font-size: 21px;
 	font-family: 'Conv_PrivaFourItalicPro';
 	margin: 0;
@@ -1298,7 +1298,7 @@ width: 100%;
 
 .section_heading{
 	font-size: 36px;
-	color: #4e2c00;
+	color: #000000;
 	line-height: 40px;
 	margin: 0;
 	padding: 0 0 0px 0;
@@ -1317,7 +1317,7 @@ width: 100%;
 .testimonial_inner h4{
 	font-size: 36px;
 	font-family: Conv_PrivaFourItalicPro;
-	color: #4e2c00;
+	color: #000000;
 	margin: 0;
 }
 
@@ -1413,7 +1413,7 @@ width: 100%;
 }
 .slide_arrow .swiper-pagination{
 	font-size: 14px;
-	color: #4e2c00;
+	color: #000000;
 	padding: 0px 5px;
 	font-family: 'Conv_PrivaThreeItalicPro';
 	display: none;
@@ -1434,14 +1434,14 @@ width: 100%;
 }
 .slide_arrow > div:not(.swiper-button-disabled):hover{
     outline: none;
-    background: #4e2c00;
+    background: #000000;
 }
 .slide_arrow > div:not(.swiper-button-disabled):hover i{
     outline: none;
     color: #fff;
 }
 .slide_arrow .swiper-back-btn i, .slide_arrow .swiper-next-btn i{
-	color: #4e2c00;
+	color: #000000;
 	padding: 7px;
 	cursor: pointer;
 }
@@ -1456,7 +1456,7 @@ text-transform: uppercase;
 width: 200px;
 box-shadow: inset 0 0 20px rgba(35, 96, 146, 0);
 outline-color: rgb(35, 96, 146, .5);
-border: 2px solid #4e2c00;
+border: 2px solid #000000;
 position: absolute;
 bottom: 0;
 left: 11%;
@@ -1528,7 +1528,7 @@ text-shadow: 1px 1px 2px #cad2d5;
 .sec_inner_txt{padding: 0px 15px;}
 .sec_inner_txt > h4{
     font-size: 36px;
-    color: #4e2c00;
+    color: #000000;
     font-family: 'Conv_PrivaFourItalicPro';
     text-align: center;
     padding: 0;
@@ -1576,7 +1576,7 @@ text-shadow: 1px 1px 2px #cad2d5;
 .horizontal_tab_wrp ul.nav li a span{font-family: 'Conv_PrivaOneItalicPro';}
 .horizontal_tab_wrp ul.nav li a:hover, .horizontal_tab_wrp ul.nav li a.active{
     background: #ffc629;
-    color: #4e2c00;
+    color: #000000;
 }
 
 
@@ -1623,11 +1623,11 @@ text-shadow: 1px 1px 2px #cad2d5;
     left: 0;
     right: 0;
     margin: 0px auto;
-    background: #4e2c00;
+    background: #000000;
 }
 .horizontal_tab_wrp.tabs_type_two ul.nav li a.active{
     color: #ffc629;
-    background: #4e2c00;
+    background: #000000;
 }
 
 .tabs_three_wrp{
@@ -1695,11 +1695,11 @@ text-shadow: 1px 1px 2px #cad2d5;
 .overlap_sec_txt{
     width: 50%;
     position: relative;
-    background: #4e2c00;
+    background: #000000;
     padding: 40px 30px 40px 10px;
 }
 
-.overlap_sec_txt:before{content: '';position: absolute;background: #4e2c00;width: 25px;height: 100%;left: -24px;top: 0;bottom: 0;}
+.overlap_sec_txt:before{content: '';position: absolute;background: #000000;width: 25px;height: 100%;left: -24px;top: 0;bottom: 0;}
 .overlap_sec_txt h5{
     font-family: 'Conv_PrivaFourItalicPro';
     font-size: 26px;
@@ -2120,7 +2120,7 @@ background: #ffc629;
 }
 .contact_page_desc h5{
     margin-bottom: 0;
-    color: #4e2c00;
+    color: #000000;
     font-size: 21px;
     font-family: 'Conv_PrivaOneItalicPro';
     font-weight: 600;
@@ -2179,7 +2179,7 @@ background: #ffc629;
 }
 .address_wrp h4{
     font-size: 26px;
-    color: #4e2c00;
+    color: #000000;
     margin: 0;
     text-align: center;
     font-family: 'Conv_PrivaFourItalicPro';
@@ -2295,7 +2295,7 @@ padding-bottom: 0;
 }
 
 .accordian_inner > li > a{
-    color: #4e2c00;
+    color: #000000;
     font-size: 20px;
     font-family: 'Conv_PrivaFourItalicPro';
     position: relative;
@@ -2369,7 +2369,7 @@ padding-bottom: 0;
     position: absolute;
     width: 8px;
     height: 8px;
-    background: #4e2c00;
+    background: #000000;
     left: 0;
     top: 10px;
     border-radius: 15px;
@@ -2388,7 +2388,7 @@ padding-bottom: 0;
     position: absolute;
     width: 10px;
     height: 3px;
-    background: #4e2c00;
+    background: #000000;
     left: 0;
     top: 21px;
 }
@@ -2460,7 +2460,7 @@ padding: 35px 0 0 0;
     width: 100%;
 }
 .simple_card_item h5{
-    color: #4e2c00;
+    color: #000000;
     font-size: 19px;
     margin: 15px 0 0 0;
     font-family: 'Conv_PrivaThreeItalicPro';
@@ -2645,7 +2645,7 @@ a.company_info{
 }
 
 .content_right_inner{
-    background: #4e2c00;
+    background: #000000;
     width: 50%;
     display: flex;
     align-items: center;
@@ -2844,7 +2844,7 @@ color: #fff;
     text-transform: uppercase;
     /* box-shadow: inset 0 0 20px rgb(35 96 146 / 0%); */
     outline-color: rgb(35, 96, 146, .5);
-    /* border: 1px solid #4e2c00; */
+    /* border: 1px solid #000000; */
     /* padding: 8px 20px; */
     background: #fff;
     font-size: 18px;
@@ -2893,7 +2893,7 @@ color: #fff;
 
 .get-news h4 {
     font-size: 36px;
-    color: #4e2c00;
+    color: #000000;
     line-height: 40px;
     margin: 0;
     padding: 0 0 22px 0;
